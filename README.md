@@ -46,6 +46,11 @@ Note: Do not type `$` in the above. Just the command that follows.
            $ rspec
            ```
 
+           or
+           ```
+           $ bundle exec rspec
+           ```
+
            Note:  Do not type `$` in the above.  Just the command that follows.
 
            You are done when the above command generates the similar output:
